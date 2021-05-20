@@ -1,5 +1,4 @@
-const API_KEY = '9e3ee067165abca7ac846b9d2af00414';
-//7ea38955d61db8cda00f1b7e8b8fa59c
+const API_KEY = //;
 const URL = 'http://api.openweathermap.org/data/2.5/';
 
 
