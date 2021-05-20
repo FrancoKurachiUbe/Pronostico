@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+p {
+    font-size: 1.5rem;
+}
+.grados {
+    font-size: 4rem;
+    text-align: right;
+}
+section {background-color: white;
+}
+.detalle {/*border:3px #ccffff solid;*/
+            border-radius: 0.5em;
+     width: 100%;
+}
+.detalle-sol{border:3px #ffff00 solid;
+}
+.detalle-nube{border:3px #cccccc solid;
+}
+
+form button {
+    width: 100%;
+}
+label {
+    font-size: 1.5rem;
+    text-align: center;
+}
+form {
+    max-width: 300px;
+    text-align: center;
+    margin: auto;
+}
+.sol {
+    background-color: #ffff99;
+}
+
+.nube {
+    background-color:#cccccc ;
+}
