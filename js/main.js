@@ -1,7 +1,7 @@
-const API_KEY_MAPS = 'AIzaSyDJoSnyar51P-hzKGy_ahuS7FAB-N3vG2M';
+const API_KEY_MAPS = '';//Inserte su API de google maps aqui
 const URL_MAPS = 'https://www.google.com/maps/embed/v1/place';
 
-const API_KEY = '7ea38955d61db8cda00f1b7e8b8fa59c';
+const API_KEY = '';//Inserte su API aqui
 const URL = 'http://api.openweathermap.org/data/2.5/';
 
 
